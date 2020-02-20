@@ -1,4 +1,4 @@
-# BaazEye
+# [Proof of Concept] BaazEye
 
 ### Features
 * Node down - Node box will blink with RED background - checked via ping
